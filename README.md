@@ -51,6 +51,46 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
   <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif?20210614130135" height="60" />
   </a>
+    </a>
+    <a href="https://fluentbit.io/" target="_blank" >
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_4D95-1_18FU4p2C1qJJbpQR5LkNyhhKmg&s" height="60" />
+  </a>
+  </a>
+    <a href="https://tortoisesvn.net/" target="_blank" >
+    <img src="https://nsfocusglobal.com/wp-content/uploads/2019/08/TortoiseSVN.jpg" height="60" />
+  </a>
+  </a>
+    <a href="https://www.redhat.com/en/ansible-collaborative" target="_blank" >
+    <img src="https://logowik.com/content/uploads/images/ansible3554.jpg" height="60" />
+  </a>
+  </a>
+    <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" >
+    <img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" height="60" />
+  </a>
+  </a>
+    <a href="https://istio.io/" target="_blank" >
+    <img src="https://miro.medium.com/v2/resize:fit:1200/1*l9PyOF1BIHD-6EpVSO5Gog.png" height="60" />
+  </a>
+  </a>
+    <a href="https://trivy.dev/latest/" target="_blank" >
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRex27U-X7TxB7xvVU3f5C9hoxN8fWTAvjQRA&s" height="60" />
+  </a>
+  </a>
+    <a href="https://fluentbit.io/" target="_blank" >
+    <img src="https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg" height="60" />
+  </a>
+  </a>
+    <a href="https://fluentbit.io/" target="_blank" >
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEkNoRmvg-KtAHJA-7TSIOwG5HZVN5fD21fw&s" height="60" />
+  </a>
+  </a>
+    <a href="https://fluentbit.io/" target="_blank" >
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*2G5KOQVzqVIbxxxeKECZkA.jpeg" height="60" />
+  </a>
+  </a>
+    <a href="https://fluentbit.io/" target="_blank" >
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VHx44wSZ6wFp5AzwXtzexDqVd3MIumjzGQ&s" height="60" />
+  </a>  
 
  </p>
   
