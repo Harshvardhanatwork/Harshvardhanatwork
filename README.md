@@ -91,18 +91,11 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
     <a href="https://fluentbit.io/" target="_blank" >
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VHx44wSZ6wFp5AzwXtzexDqVd3MIumjzGQ&s" height="60" />
   </a>  
-
- </p>
-  
- <p float="left">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
    <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://i0.wp.com/automatenow.io/wp-content/uploads/2024/01/jenkins-test-automation.gif?resize=691%2C461&ssl=1"  height="75" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgr4GaQ79t_0EzVgnJA2BDkalwpHEoWW5LDQ&s"  height="75" />
   </a>
  </p>
   
