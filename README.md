@@ -65,7 +65,7 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
   </a>
   </a>
     <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" >
-    <img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" height="60" />
+    <img src="https://akuity.github.io/awesome-argo/images/argo.png" height="60" />
   </a>
   </a>
     <a href="https://istio.io/" target="_blank" >
@@ -114,9 +114,6 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
   </a>
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
   </a>
     <a href="https://www.postgresql.org" target="_blank" >
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
