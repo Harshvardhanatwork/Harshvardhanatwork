@@ -57,6 +57,9 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
+   <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://i0.wp.com/automatenow.io/wp-content/uploads/2024/01/jenkins-test-automation.gif?resize=691%2C461&ssl=1"  height="75" />
+  </a>
  </p>
   
 ### Databases and Monitoring
