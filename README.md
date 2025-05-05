@@ -7,12 +7,18 @@
 I am [Harshvardhan](https://in.linkedin.com/in/harshvardhansinghchouhan), a Devops Engineer (Development, DevOps, Platform Engineering) from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 3+ years of professional onsite as well as remote working experience. 🎯
 
 I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
+ <p float="left">
+  <a href="https://fluentbit.io/" target="_blank" >
+    <img src="https://www.digosolution.com/wp-content/uploads/2024/07/DevSecOps.gif" height="200" />
+  </a>
+  </p>
 
-### DevOps
+### DevOps tools
 <p float="left">
   <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
+    
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
