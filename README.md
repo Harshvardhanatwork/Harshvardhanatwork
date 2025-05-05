@@ -76,20 +76,20 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRex27U-X7TxB7xvVU3f5C9hoxN8fWTAvjQRA&s" height="60" />
   </a>
   </a>
-    <a href="https://fluentbit.io/" target="_blank" >
+    <a href="https://www.atlassian.com/software/jira" target="_blank" >
     <img src="https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg" height="60" />
   </a>
   </a>
-    <a href="https://fluentbit.io/" target="_blank" >
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEkNoRmvg-KtAHJA-7TSIOwG5HZVN5fD21fw&s" height="60" />
+    <a href="https://hub.docker.com/" target="_blank" >
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEkNoRmvg-KtAHJA-7TSIOwG5HZVN5fD21fw&s" height="75" />
   </a>
   </a>
-    <a href="https://fluentbit.io/" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*2G5KOQVzqVIbxxxeKECZkA.jpeg" height="60" />
+    <a href="https://docs.docker.com/compose/" target="_blank" >
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*2G5KOQVzqVIbxxxeKECZkA.jpeg" height="75" />
   </a>
   </a>
-    <a href="https://fluentbit.io/" target="_blank" >
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VHx44wSZ6wFp5AzwXtzexDqVd3MIumjzGQ&s" height="60" />
+    <a href="https://nginx.org/" target="_blank" >
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VHx44wSZ6wFp5AzwXtzexDqVd3MIumjzGQ&s" height="75" />
   </a>  
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
