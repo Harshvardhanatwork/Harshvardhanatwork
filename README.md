@@ -4,7 +4,7 @@
 **harshvardhanatwork/harshvardhanatwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Harshvardhan](https://in.linkedin.com/in/harshvardhansinghchouhan), a Devops Engineer (Development, DevOps, Platform Engineering) from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 3+ years of professional onsite as well as remote working experience. 🎯
+I am [Harshvardhan](https://in.linkedin.com/in/harshvardhansinghchouhan), a Devops Engineer (Development, DevOps, Platform Engineering) from [INDIA](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 3+ years of professional onsite as well as remote working experience. 🎯
 
 I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
  <p float="left">
