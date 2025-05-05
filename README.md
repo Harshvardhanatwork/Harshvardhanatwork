@@ -8,7 +8,7 @@ I am [Harshvardhan](https://in.linkedin.com/in/harshvardhansinghchouhan), a Devo
 
 I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
 
-
+### DevOps
 <p float="left">
   <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
@@ -20,7 +20,7 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
   </a>
-  
+
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
   </a>
@@ -48,8 +48,6 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
 
  </p>
   
-### DevOps
-  
  <p float="left">
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
@@ -62,7 +60,7 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
   </a>
  </p>
   
-### Databases and Monitoring
+### Databases, Monitoring and Logging
   
   <p float="left">
   <a href="https://grafana.com/" target="_blank" >
