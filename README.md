@@ -53,31 +53,31 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
   </a>
     </a>
     <a href="https://fluentbit.io/" target="_blank" >
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_4D95-1_18FU4p2C1qJJbpQR5LkNyhhKmg&s" height="60" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_4D95-1_18FU4p2C1qJJbpQR5LkNyhhKmg&s" height="70" />
   </a>
   </a>
     <a href="https://tortoisesvn.net/" target="_blank" >
-    <img src="https://nsfocusglobal.com/wp-content/uploads/2019/08/TortoiseSVN.jpg" height="60" />
+    <img src="https://nsfocusglobal.com/wp-content/uploads/2019/08/TortoiseSVN.jpg" height="70" />
   </a>
   </a>
     <a href="https://www.redhat.com/en/ansible-collaborative" target="_blank" >
-    <img src="https://logowik.com/content/uploads/images/ansible3554.jpg" height="60" />
+    <img src="https://logowik.com/content/uploads/images/ansible3554.jpg" height="70" />
   </a>
   </a>
     <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" >
-    <img src="https://akuity.github.io/awesome-argo/images/argo.png" height="60" />
+    <img src="https://akuity.github.io/awesome-argo/images/argo.png" height="70" />
   </a>
   </a>
     <a href="https://istio.io/" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:1200/1*l9PyOF1BIHD-6EpVSO5Gog.png" height="60" />
+    <img src="https://miro.medium.com/v2/resize:fit:1200/1*l9PyOF1BIHD-6EpVSO5Gog.png" height="70" />
   </a>
   </a>
     <a href="https://trivy.dev/latest/" target="_blank" >
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRex27U-X7TxB7xvVU3f5C9hoxN8fWTAvjQRA&s" height="60" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRex27U-X7TxB7xvVU3f5C9hoxN8fWTAvjQRA&s" height="70" />
   </a>
   </a>
     <a href="https://www.atlassian.com/software/jira" target="_blank" >
-    <img src="https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg" height="60" />
+    <img src="https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg" height="75" />
   </a>
   </a>
     <a href="https://hub.docker.com/" target="_blank" >
