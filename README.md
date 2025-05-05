@@ -80,6 +80,10 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
     <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
   </a>
+  </a>
+    <a href="https://www.oracle.com/in/database/" target="_blank" >
+    <img src="https://allvectorlogo.com/img/2017/02/oracle-database-logo.png" height="80" />
+  </a>
 </p>
 
 
