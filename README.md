@@ -36,20 +36,20 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
   </a>
 
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" >
-    <img src="https://bansircloud.com/wp-content/uploads/2021/02/SONARqUBE.png"  height="80" /> 
+    <img src="https://bansircloud.com/wp-content/uploads/2021/02/SONARqUBE.png"  height="75" /> 
   </a>
   
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="75" />
   </a>
   <a href="https://grpc.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
   </a>
   <a href="https://redis.io/" target="_blank" >
-    <img src="https://plugins.club/wp-content/uploads/2023/05/output-onlinegiftools.gif" height="70" />
+    <img src="https://plugins.club/wp-content/uploads/2023/05/output-onlinegiftools.gif" height="75" />
   </a>
   <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif?20210614130135" height="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif?20210614130135" height="75" />
   </a>
     </a>
     <a href="https://fluentbit.io/" target="_blank" >
