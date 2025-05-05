@@ -17,6 +17,18 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
   
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+  </a>
+  
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  </a>
+  
+  <a href="https://helm.sh/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
+  </a>
+
   <a href="https://www.djangoproject.com/" target="_blank" >
     <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
   </a>
@@ -30,6 +42,10 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
   </a>
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif?20210614130135" height="60" />
+  </a>
+
  </p>
   
 ### DevOps
@@ -45,6 +61,10 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
   
 ### Databases and Monitoring
   
+  <p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+  </a>
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
@@ -54,7 +74,9 @@ I mostly work with Kubernetes, Docker, CICD and Cloud based technologies. 🚀
     <a href="https://www.postgresql.org" target="_blank" >
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
   </a>
-
+    <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
+  </a>
 </p>
 
 
